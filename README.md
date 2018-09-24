@@ -104,7 +104,7 @@ services:
       # Keep attention to that env variable 
       PHP_IDE_CONFIG: serverName=test-app
 ```
-Ici, on notera la présence de la variable d'environement `PHP_IDE_CONFIG`. Nous allons utiliser la valeur de `serverName` pour indiquer à phpStorm le nom du serveur sur lequel il va écouter les connections. 
+Ici, on notera la présence de la variable d'environement `PHP_IDE_CONFIG`. Nous allons utiliser la valeur de `serverName` pour indiquer à phpStorm le nom du serveur sur lequel il va écouter les connexions. 
 
 Pour ce faire, rendez-vous dans **File/Settings.../Languages & Framework/PHP***
 ![PHPStorm Settings PHP](https://lh3.googleusercontent.com/EypBsKBO_74JB2Sns7Q69NEoh5O-9ZBBHh3RyIg8eng-ceZJ_aC64S9jK-5kedsTiGRjKJrA2aM)
